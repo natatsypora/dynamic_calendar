@@ -1,0 +1,35 @@
+[data-testid="stAppViewBlockContainer"],
+.st-emotion-cache-13ln4jf{
+    width: 100%;
+    padding: 3rem 1rem 1rem;
+    max-width: 60rem;
+}
+
+div [data-testid="stMarkdownContainer"] > p { 
+    font-size: 16px;
+} 
+
+div [data-testid="stMetricValue"] > div {
+    font-size: 1.3rem;
+    text-align: center;
+    color: rgb(15 36 91);    
+}
+
+div > [data-testid="stMarkdownContainer"] >p {
+     text-align: center;    
+}
+
+[data-baseweb="tab"]  {
+    margin-bottom: 0;
+    font-size: 16px;
+    background: #AEBEE4;
+    border-radius: 5px 5px 0 0;
+    padding: 0 10px;
+    height: 2rem;
+}
+
+:focus[data-baseweb="tab"] {       
+    background: #536490;
+    color: rgb(236, 240, 245);
+    
+}
