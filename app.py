@@ -142,5 +142,5 @@ with tab_h:
     col_csv, col_source, col_drive = st.columns(3)
     col_csv.link_button('Download the file "Bank Holidays"', url=url, help='Click to download the csv file', use_container_width=True)
     col_source.link_button('Source of the Data', url='https://calendar.2net.co.il/annual-calendar.aspx', use_container_width=True)
-    col_drive.link_button('Data preparation', url='', use_container_width=True)
+    col_drive.link_button('Data preparation', url='https://colab.research.google.com/drive/1syHM-sgd_y-sNzh8UG5HuavDNBVvW8V1?usp=sharing', use_container_width=True)
 
