@@ -7,7 +7,7 @@ The application allows users to select a year and view either a monthly calendar
 - the yearly calendar displays all the holidays for the selected year
 
 The application also includes a 'Holidays' tab that displays a table of all the Bank Holidays for the 2024-2033 years.  
-The table can be downloaded as a CSV file.
+The table can be downloaded as PNG and the file with holidays in CSV format.
 
  The application also includes a sidebar with today's date, current time and timezone.  
 
