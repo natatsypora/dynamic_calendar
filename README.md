@@ -15,7 +15,7 @@ The table can be downloaded as PNG and the file with holidays in CSV format.
 ![image](https://github.com/user-attachments/assets/468eabcc-50f5-4d6a-bf52-11e2d0de4b2c)
 
 ## Source
-The data for the holidays is obtained from the website [calendar.2net](https://calendar.2net.co.il/annual-calendar.aspx).   
+The data for the holidays is obtained from the website [calendar.2net](https://calendar.2net.co.il/annual-calendar.aspx)   
 
 ## Data preparation
-[Goggle Drive](https://colab.research.google.com/drive/1syHM-sgd_y-sNzh8UG5HuavDNBVvW8V1?usp=sharing)
+For view the data preprocessing, visit [Goggle Drive](https://colab.research.google.com/drive/1syHM-sgd_y-sNzh8UG5HuavDNBVvW8V1?usp=sharing)
