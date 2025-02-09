@@ -86,7 +86,7 @@ tab_c, tab_h = st.tabs(['Calendar', 'Holidays'])
 with tab_c:  
     col_y, col_m, col_chooce = st.columns(3)
 
-    year = col_y.selectbox('Select year', df_range['year'].unique(), index=0)
+    year = col_y.selectbox('Select year', df_range['year'].unique(), index=1)
     col_chooce.write('')
     chooce = col_chooce.toggle('Monthly calendar', help='Select to show monthly calendar')
 
